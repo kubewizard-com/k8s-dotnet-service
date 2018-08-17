@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_dotnetservice.2074705508.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="dotnetservice" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="ServiceController.cs" t="Include" />
+        </e>
+        <e p="Dockerfile" t="Include" />
+        <e p="Models" t="Include">
+          <e p="PongMessage.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Publish" t="Include">
+          <e p="dotnetservice.deps.json" t="Include" />
+          <e p="dotnetservice.dll" t="Include" />
+          <e p="dotnetservice.pdb" t="Include" />
+          <e p="dotnetservice.runtimeconfig.json" t="Include" />
+          <e p="web.config" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="dotnetservice.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="dotnetservice.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="dotnetservice.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
